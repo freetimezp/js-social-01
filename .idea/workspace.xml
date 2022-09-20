@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93861867-c445-4763-8d8e-5825f4c57e3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sanity-social-01/schemas/comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity-social-01/schemas/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity-social-01/schemas/postedBy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity-social-01/schemas/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity-social-01/config/.checksums" beforeDir="false" afterPath="$PROJECT_DIR$/sanity-social-01/config/.checksums" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity-social-01/schemas/schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/sanity-social-01/schemas/schema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity-social-01/schemas/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/sanity-social-01/schemas/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\xampp\htdocs\js-social-01\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663670609353</updated>
       <workItem from="1663670610570" duration="3659000" />
-      <workItem from="1663676463406" duration="3713000" />
+      <workItem from="1663676463406" duration="6408000" />
     </task>
     <servers />
   </component>
