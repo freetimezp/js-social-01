@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93861867-c445-4763-8d8e-5825f4c57e3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/NoResults.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/VideoCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Discover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Discover.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/constants.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/utils/constants.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/post/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +62,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\js-social-01\pages\api" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\js-social-01\utils" />
     </key>
@@ -72,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663670609353</updated>
       <workItem from="1663670610570" duration="3659000" />
-      <workItem from="1663676463406" duration="19666000" />
+      <workItem from="1663676463406" duration="20082000" />
+      <workItem from="1663756474764" duration="5755000" />
     </task>
     <servers />
   </component>
@@ -89,8 +96,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="697" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1663760307201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1663760307201" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1663676412277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
