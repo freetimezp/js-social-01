@@ -29,6 +29,12 @@ const VideoCard: NextPage<IProps> = ({post}) => {
         }
     };
 
+    useEffect(() => {
+        if(videoRef?.current) {
+            videoRef.current.muted = isVideoMuted;
+        }
+    }, [isVideoMuted]);
+
     return (
         <div className="flex flex-col border-b-2 border-gray-200 pb-6">
             <div>
@@ -67,7 +73,7 @@ const VideoCard: NextPage<IProps> = ({post}) => {
                     onMouseEnter={() => setIsHover(true)}
                     onMouseLeave={() => setIsHover(false)}
                 >
-                    <Link href="/">
+                    <Link href={`/detail/${post._id}`}>
                         <video
                             loop
                             ref={videoRef}
