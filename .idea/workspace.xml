@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="93861867-c445-4763-8d8e-5825f4c57e3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
       <workItem from="1663931973825" duration="21266000" />
       <workItem from="1664012141197" duration="10015000" />
       <workItem from="1664036400178" duration="4653000" />
-      <workItem from="1664105284376" duration="10300000" />
+      <workItem from="1664105284376" duration="11291000" />
     </task>
     <servers />
   </component>
@@ -116,6 +118,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1663676412277" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1664117523378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1664117523378" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1664117523378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1664117523378" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1664117523378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1664117523378" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1664117523378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1664117523378" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1664018302956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
