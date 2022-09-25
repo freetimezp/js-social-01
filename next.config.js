@@ -4,7 +4,6 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   reactStrictMode: true,
-  swcMinify: true,
   images: {
     domains: ['i.graphicmama.com', 'lh3.googleusercontent.com'],
   }
