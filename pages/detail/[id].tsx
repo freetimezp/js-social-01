@@ -24,9 +24,9 @@ interface IProps {
 
 const Detail = ({postDetails}: IProps) => {
     const [post, setPost] = useState(postDetails);
-    const [playing, setPlaying] = useState(false);
-    const [isVideoMuted, setIsVideoMuted] = useState(false);
-    const [comment, setComment] = useState('');
+    const [isPlaying, setIsPlaying] = useState<boolean>(false);
+    const [isVideoMuted, setIsVideoMuted] = useState<boolean>(false);
+    const [comment, setComment] = useState<string>('');
     const [isPostingComment, setIsPostingComment] = useState(false);
 
     const {userProfile}: any = useAuthStore();
@@ -34,17 +34,13 @@ const Detail = ({postDetails}: IProps) => {
     const videoRef = useRef<HTMLVideoElement>(null);
     const router = useRouter();
 
-    if(!post) {
-        return null;
-    }
-
     const onVideoClick = () => {
-        if(playing) {
+        if(isPlaying) {
             videoRef?.current?.pause();
-            setPlaying(false);
+            setIsPlaying(false);
         }else{
             videoRef?.current?.play();
-            setPlaying(true);
+            setIsPlaying(true);
         }
     }
 
@@ -104,7 +100,7 @@ const Detail = ({postDetails}: IProps) => {
                     </div>
 
                     <div className="absolute top-[45%] left-[45%] cursor-pointer">
-                        {!playing && (
+                        {!isPlaying && (
                             <button>
                                 <BsFillPlayFill
                                     className="text-white text-6xl lg:text-8xl"
